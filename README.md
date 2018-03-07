@@ -6,4 +6,4 @@ This repository contains
 "Intelligent Initialization and Adaptive Thresholding for Iterative Matrix Completion; Some Statistical and Algorithmic Theory for 
 Adaptive-Impute", and
 
-2) R codes for Figures 1-4 and Tables 1-4 that we present in Section 5 in the same paper. 
+2) R codes for Figures 1-4 and Tables 1-4 which appear in Section 5 in the same paper. 
