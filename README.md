@@ -2,7 +2,7 @@
 
 This repository contains 
 
-1) an R package 'AdaptImpute' which implement the Adaptive-Impute algorithm proposed in the paper
+1) an R package 'AdaptImpute' which implement the Adaptive-Impute algorithm proposed in the paper,
 "Intelligent Initialization and Adaptive Thresholding for Iterative Matrix Completion; Some Statistical and Algorithmic Theory for 
 Adaptive-Impute", and
 
