@@ -8,10 +8,14 @@ This repository contains
 
     - first, download 'AdaptImpute_0.1.0.tar.gz' file
     - second, run the following R codes to install the package from 'AdaptImpute_0.1.0.tar.gz' file,
+    
           install.packages("...(dir).../AdaptImpute_0.1.0.tar.gz",repos=NULL)
+          
       where ...(dir)... should be the directory which contains 'AdaptImpute_0.1.0.tar.gz' file.
     - third, run the following R codes to load and attach 'AdaptImpute' package,
+    
           library(AdaptImpute)
+          
     - the main function for matrix completion is called 'adaptImpute'. Here is an example: 
     
           n = 500
@@ -38,6 +42,9 @@ This repository contains
           out = adaptImpute(M.p=dat,r=r)
 
     - For more details about the function 'adaptImptue', run the following R codes
+    
           ?adaptImpute
-      or
+    
+    or
+    
           help(adaptImpute)
