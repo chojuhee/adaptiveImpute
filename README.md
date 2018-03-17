@@ -44,7 +44,6 @@ This repository contains
     - For more details about the function 'adaptImptue', run the following R codes
     
           ?adaptImpute
-    
-    or
+      or
     
           help(adaptImpute)
